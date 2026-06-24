@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-## About Me<br><br>Hi, I'm Yogesh Awasthi 👋<br><br>🎓 Third-year Computer Science student passionate about software development and problem-solving.<br><br>💻 Currently working on web development projects using HTML, CSS, JavaScript, and C programming.<br><br>🚀 Developer of "Hamro Paisa", a dynamic currency converter project supporting 100+ international currencies.<br><br>📚 Interested in Software Engineering, Object-Oriented Analysis & Design (OOAD), Database Systems, and Full-Stack Development.<br><br>🌱 Always learning new technologies and improving my programming skills through academic and personal projects.<br><br>📫 Feel free to explore my repositories and connect with me!
+## <br><br>Hi, I'm Yogesh Awasthi 👋<br><br>🎓 Third-year Computer Science student passionate about software development and problem-solving.<br><br>💻 Currently working on web development projects using HTML, CSS, JavaScript, and C programming.<br><br>🚀 Developer of "Hamro Paisa", a dynamic currency converter project supporting 100+ international currencies.<br><br>📚 Interested in Software Engineering, Object-Oriented Analysis & Design (OOAD), Database Systems, and Full-Stack Development.<br><br>🌱 Always learning new technologies and improving my programming skills through academic and personal projects.<br><br>📫 Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
